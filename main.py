@@ -5,6 +5,10 @@
 * A program megírásakor a fájlban lévő adatok helyes szerkezetét nem kell ellenőriznie, feltételezheti, hogy a rendelkezésre álló adatok a leírtaknak megfelelnek
 * Megoldását úgy készítse el, hogy az azonos szerkezetű, de tetszőleges bemeneti adatok mellet is helyes eredményt adjon
 
+Hozz létre egy osztályt (class) létrehozása NEM KÖTELEZŐ DE több pontot lehet kapni osztály használata esetén, 
+ami reprezentálja egy alkalmazott példányait (object) istance. Az osztály konstruktora (constructor) paraméterként kapja meg a beolvasott sort, 
+és ebből határozza meg az adott attribútomokat (property). 
+
 1. feladat:
 A feladat megoldásához hozzon létre grafikus vagy konzolalkalmazást (projektet) "Lift" azonosítóval!
 
